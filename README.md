@@ -5,3 +5,5 @@ The purpose of this project was to use Plotly to visualize data collected to ana
 I created an interactive bar chart, bubble chart, and an indicator gauge to visualize the data collected on each subject.  The subject’s ID number is chosen from a drop-down menu, causing their demographics to be displayed and the charts to display their individual bacterial results.
 
 Html was also used to create a webpage for a Git Hub deployment, to publish the results.  I modified the given challenge code to add an image to the jumbotron, changed the layout of the charts on the page, and customized colors and fonts.
+
+[GitHub Pages Deployment](https://alawler12.github.io/Belly_buttons/)
